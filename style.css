@@ -1,1 +1,14 @@
+body {
+    background-color: blueviolet;
+    margin: auto;
+    padding: 0%;
+}
+
+h1 {
+    color: chocolate;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100;
+    font-style: italic;
+}
 
